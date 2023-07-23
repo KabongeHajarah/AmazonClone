@@ -87,8 +87,6 @@ cartQuantity+=item.quantity
      innerHTML=cartQuantity;
 
 
-      console.log(cartQuantity);
-      console.log(cart);
     });
 });
 
